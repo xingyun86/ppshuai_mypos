@@ -1,0 +1,11 @@
+HKCR
+{
+	NoRemove AppID
+	{
+		{7F7ED2DF-FF82-4E68-8DD4-7CF597A96C5E} = s 'MyPos'
+		'MyPos.EXE'
+		{
+			val AppID = s {7F7ED2DF-FF82-4E68-8DD4-7CF597A96C5E}
+		}
+	}
+}
